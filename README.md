@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning React.js
-- 👯 Let's connect on Linkedin: https://www.linkedin.com/in/prijesh-vaghasiya-82712730b/
 - 💬 Ask me about Web Development
 - 📫 How to reach me: prijeshvaghasiya2003@gmail.com
+- 👯 Let's connect on Linkedin
   
 ### Connect with me:
 <div id="badges">
