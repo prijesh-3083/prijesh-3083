@@ -20,7 +20,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,npm,react,github,git,postman,java,html,css,js,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,jquery,nodejs,express,mongodb,mysql,npm,react,github,git,postman,java,html,css,js,&perline=5)](https://skillicons.dev)
 
 ![Prijesh Vaghasiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=prijesh-3083&show_icons=true&theme=dark)
 
